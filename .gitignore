@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# macOS
+.DS_Store
+
+# Data files
+*.csv
+*.json
+*.xlsx
+*.tsv
+*.h5
+*.txt
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
